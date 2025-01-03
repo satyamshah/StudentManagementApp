@@ -27,3 +27,8 @@ Follow these steps to set up the project locally:
 3. npm install
 4. npm start
 
+Application Overview : 
+
+![image](https://github.com/user-attachments/assets/f613508e-fc5b-4ad1-8539-9b28dd6db2e9)
+
+
