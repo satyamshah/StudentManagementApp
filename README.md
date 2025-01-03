@@ -20,8 +20,10 @@ Before you begin, ensure you have the following installed on your system:
 Node.js 
 npm (comes with Node.js)
 
-Installation
+Installation Steps
 Follow these steps to set up the project locally:
 git clone repourl
-cd your-repo-name
+cd studentmanagementapp
+npm install
+npm start
 
