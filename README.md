@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed on your system:
 
 Installation Steps
 Follow these steps to set up the project locally:
-1. git clone repourl
+1. git clone https://github.com/satyamshah/StudentManagementApp.git
 2. cd studentmanagementapp
 3. npm install
 4. npm start
